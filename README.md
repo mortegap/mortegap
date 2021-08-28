@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Ortega</h1>
 <h3 align="center">A passionate SRE from Spain</h3>
 
-- 🔭 I’m currently working with **Django, Docker and much more!**
+- 🔭 I’m currently working with **Python, Docker and much more!**
 
 - 🌱 I’m currently learning **Kubernetes!**
 
