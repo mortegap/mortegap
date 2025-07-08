@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel Ortega</h1>
-<h3 align="center">A passionate SRE from Spain</h3>
+<h3 align="center">A passionate SRE/DevOps from Spain</h3>
 
-- 🔭 I’m currently working with **Python, Docker and much more!**
+- 🔭 I’m currently working with **Python, K8S and much more!**
 
-- 🌱 I’m currently learning **Kubernetes!**
+- 🌱 I’m currently growing in **MLOps!**
 
 - 📫 How to reach me **miguelortega098@gmail.com**
 
